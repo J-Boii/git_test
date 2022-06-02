@@ -1,0 +1,1 @@
+This is a recap of the add, commit and push process.
